@@ -1,9 +1,0 @@
-1 edit the username in the shell script (archive named cryptopass)
-2 open your terminal on the downloaded crypto-pass folder
-3 sudo mv cryptopass /usr/bin
-4 sudo chmod 777 /usr/bin/cryptopass
-
-5 now run 
-
-cryptopass
-finish
